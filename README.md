@@ -1,4 +1,4 @@
 spiderman
 =========
 
-Simple web crawler to get reviews from tripadvisor based on a location. 
+Simple web crawler to get the IMDb movie reviews.
